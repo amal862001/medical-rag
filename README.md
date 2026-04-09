@@ -1,5 +1,4 @@
-# renuka.chitmalwar
-Capstone projects for renuka.chitmalwar@neuleap.ai
+
 
 #  Biomedical Research Assistant using RAG (Retrieval-Augmented Generation)
 
