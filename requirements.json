@@ -1,0 +1,5 @@
+{
+  "GEMINI_API_KEY":"your-api-key",
+  "SOURCE_PDF_DIR":"/app/raw_pdfs"
+  
+}
