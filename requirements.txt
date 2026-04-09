@@ -1,0 +1,26 @@
+# Core app
+streamlit==1.53.0
+python-dotenv==1.2.1
+
+# LangChain stack actually used by the repo
+langchain-core==1.2.7
+langchain-chroma==1.1.0
+langchain-google-genai==4.2.0
+langchain-huggingface==1.2.0
+langchain-text-splitters==1.1.0
+chromadb==1.4.1
+
+# Embeddings
+sentence-transformers==5.2.0
+
+# PDF and OCR processing
+unstructured==0.18.27
+unstructured_inference==1.1.7
+PyMuPDF==1.26.7
+pytesseract==0.3.13
+pillow==12.1.0
+pdf2image
+unstructured_pytesseract
+# Utility
+pydantic==2.12.5
+pi-heif
